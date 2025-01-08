@@ -84,5 +84,3 @@ Install dependencies: bun install
 
 Start the development server: bun start
 
-Add user location detection for displaying weather automatically based on the user's current city.
-📂 Setup and Installation
